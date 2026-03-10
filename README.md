@@ -209,7 +209,7 @@ Example stop token:
 
 # 👨‍💻 Author
 
-Rustam Ahmed
+Dr. Rustam Ahmed (PhD)
 Director – RWorld Computer Solutions Pvt Ltd
 
 ---
